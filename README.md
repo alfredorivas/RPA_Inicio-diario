@@ -1,2 +1,2 @@
-# RPA_Inicio-diario
+# RPA_daily-wake-up
 Powershell macro to automate daily turn on
